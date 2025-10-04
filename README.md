@@ -44,3 +44,9 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
+## Creating Standalone Executable 
+
+```bash
+pip install pyinstaller
+pyinstaller --onefile --windowed heic2jpg_gui.py
+```
