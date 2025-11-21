@@ -26,13 +26,14 @@
 #   Contact : <everett@odelay.io>
 #  
 #   Description : This is the GUI Python script which converts iPhone pictures (HEIC) to
-#                 a JPG photo.
+#                 a JPG photo.  Please note this application was developed using Ai.
 #
 #   Version History:
 #   
 #       Date        Description
 #     -----------   -----------------------------------------------------------------------
 #      2025-10-18    Original Creation
+#      2025-11-20    Updated comment to include Ai generated source code.
 #
 ###########################################################################################
 
